@@ -315,7 +315,8 @@ appPlugin:i2c-driver,false
 appPlugin:i2c-driver-stub,false
 appPlugin:ias-zone-client,false
 appPlugin:ias-zone-server,false
-appPlugin:identify,false
+appPlugin:identify,true
+
 appPlugin:identify-feedback,false
 appPlugin:idle-sleep,false
 appPlugin:illuminance-measurement-server,false
@@ -485,3 +486,5 @@ appPlugin:zll-scenes-server,false
 appPlugin:zll-utility-client,false
 appPlugin:zll-utility-server,false
 AppPluginOption:EMBER_BINDING_TABLE_SIZE,10
+AppPluginOption(efr32~family[M]~series[1]~device_configuration[2]~performance[P]~radio[432]~flash[1024K]~temp[G]~package[L]~pins[125]~!module+BRD4161A+gcc):EMBER_AF_PLUGIN_NETWORK_STEERING_RADIO_TX_POWER,10
+AppPluginOption(efr32~family[M]~series[1]~device_configuration[2]~performance[P]~radio[432]~flash[1024K]~temp[G]~package[L]~pins[125]~!module+BRD4161A+gcc):EMBER_AF_PLUGIN_NETWORK_CREATOR_RADIO_POWER,10
