@@ -1,6 +1,9 @@
 # Z3_RollerShutter
 Zigbee 3.0 Stabdard implementation of a mains powered roller shutter
 
+## Hands on ##
+Matching hands on can be found at [Jerome-Silabs Roller Shutter](https://jerome-silabs.github.io/Zigbee_Hands_On/)
+
 ## Documentation ##
 
 Official documentation can be found at our [Developer Documentation](https://docs.silabs.com/zigbee/latest/) page.
