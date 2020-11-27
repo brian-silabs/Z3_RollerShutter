@@ -1,8 +1,11 @@
-# Z3_RollerShutter
-Zigbee 3.0 Stabdard implementation of a mains powered roller shutter
-
-## Hands on ##
-Matching hands on can be found at [Jerome-Silabs Roller Shutter](https://jerome-silabs.github.io/Zigbee_Hands_On/)
+---
+sort: 1
+---
+ 
+# Z3_RollerShutterController
+Zigbee 3.0 Stabdard implementation of a battery powered roller shutter controller 
+ 
+{​​​​% include list.liquid all=true %}
 
 ## Documentation ##
 
